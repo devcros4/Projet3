@@ -8,5 +8,29 @@
 
 import Foundation
 
-print("Hello, World!")
+// instantiation of the game object
+var game = Game()
+
+// Begin of the game
+game.start()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
